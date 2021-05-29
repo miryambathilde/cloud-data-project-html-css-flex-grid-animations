@@ -263,6 +263,7 @@ pre {
 
 .docs-main a:hover {
   font-weight: bold;
+  color: var(--primary-color);
 }
 
 /* FOOTER */
